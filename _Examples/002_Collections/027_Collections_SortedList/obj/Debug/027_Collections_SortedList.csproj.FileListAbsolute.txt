@@ -3,3 +3,9 @@ E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Пр
 E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\027_Collections_SortedList\bin\Debug\027_Collections_SortedList.pdb
 E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\027_Collections_SortedList\obj\Debug\027_Collections_SortedList.exe
 E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\027_Collections_SortedList\obj\Debug\027_Collections_SortedList.pdb
+D:\C#CourseAdvanced\_Examples\002_Collections\027_Collections_SortedList\bin\Debug\027_Collections_SortedList.exe.config
+D:\C#CourseAdvanced\_Examples\002_Collections\027_Collections_SortedList\bin\Debug\027_Collections_SortedList.exe
+D:\C#CourseAdvanced\_Examples\002_Collections\027_Collections_SortedList\bin\Debug\027_Collections_SortedList.pdb
+D:\C#CourseAdvanced\_Examples\002_Collections\027_Collections_SortedList\obj\Debug\027_Collections_SortedList.csproj.CoreCompileInputs.cache
+D:\C#CourseAdvanced\_Examples\002_Collections\027_Collections_SortedList\obj\Debug\027_Collections_SortedList.exe
+D:\C#CourseAdvanced\_Examples\002_Collections\027_Collections_SortedList\obj\Debug\027_Collections_SortedList.pdb

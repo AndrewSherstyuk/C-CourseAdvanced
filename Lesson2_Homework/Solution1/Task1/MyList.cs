@@ -9,14 +9,14 @@ namespace Task1
 {
     class MyList<T> : IMyList<T>, IEnumerable<T>, IEnumerable, IEnumerator
     {          
-        public T[] elementsArray = null;
+        private T[] elementsArray = null;
 
         public MyList(params T[] elementsArray)
         {
             this.elementsArray = elementsArray;
         }
 
-        int position = -1;
+        public int position = -1;
 
         object IEnumerator.Current
         {
@@ -31,12 +31,12 @@ namespace Task1
 
         public T this[int index]
         {
-            get { return elementsArray[index];  }
+            get { return elementsArray[index]; }
         }
 
         IEnumerator IEnumerable.GetEnumerator()
         {
-            return elementsArray as IEnumerator;
+            return this;
         }
 
         public bool MoveNext()
@@ -47,7 +47,10 @@ namespace Task1
                 return true;
             }
             else
-                return false;
+            {
+                Reset();
+                return false;                
+            }
         }
 
         public void Reset()
@@ -63,8 +66,14 @@ namespace Task1
         }
 
         public void Clear()
-        {
-            elementsArray.ToList().Clear();
+        {            
+            int a = elementsArray.Length;
+            for (int i = 0; i < a; i++)
+            {
+                List<T> list = elementsArray.ToList();
+                list.RemoveAt(0);
+                elementsArray = list.ToArray();
+            }
         }
 
         public bool Contains(T item)
@@ -78,7 +87,7 @@ namespace Task1
 
         public IEnumerator<T> GetEnumerator()
         {
-            return elementsArray as IEnumerator<T>;
+            return this as IEnumerator<T>;
         }
     }
 }
