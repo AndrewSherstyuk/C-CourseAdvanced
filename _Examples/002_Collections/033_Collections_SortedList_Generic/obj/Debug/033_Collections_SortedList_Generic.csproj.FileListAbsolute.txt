@@ -1,0 +1,6 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\033_Collections_SortedList_Generic\bin\Debug\033_Collections_SortedList_Generic.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\033_Collections_SortedList_Generic\bin\Debug\033_Collections_SortedList_Generic.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\033_Collections_SortedList_Generic\bin\Debug\033_Collections_SortedList_Generic.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\033_Collections_SortedList_Generic\obj\Debug\033_Collections_SortedList_Generic.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\033_Collections_SortedList_Generic\obj\Debug\033_Collections_SortedList_Generic.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\033_Collections_SortedList_Generic\obj\Debug\033_Collections_SortedList_Generic.pdb

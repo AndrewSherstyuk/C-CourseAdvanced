@@ -1,0 +1,5 @@
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\16_Invariance\bin\Debug\16_Invariance.exe.config
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\16_Invariance\bin\Debug\16_Invariance.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\16_Invariance\bin\Debug\16_Invariance.pdb
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\16_Invariance\obj\Debug\16_Invariance.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\16_Invariance\obj\Debug\16_Invariance.pdb

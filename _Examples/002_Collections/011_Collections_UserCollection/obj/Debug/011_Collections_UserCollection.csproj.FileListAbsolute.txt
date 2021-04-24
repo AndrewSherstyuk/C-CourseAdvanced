@@ -1,0 +1,13 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\011_Collections_UserCollection\bin\Debug\011_Collections_UserCollection.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\011_Collections_UserCollection\bin\Debug\011_Collections_UserCollection.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\011_Collections_UserCollection\bin\Debug\011_Collections_UserCollection.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.pdb
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\bin\Debug\011_Collections_UserCollection.exe.config
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\bin\Debug\011_Collections_UserCollection.exe
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\bin\Debug\011_Collections_UserCollection.pdb
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.csprojAssemblyReference.cache
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.csproj.CoreCompileInputs.cache
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.exe
+D:\C#CourseAdvanced\_Examples\002_Collections\011_Collections_UserCollection\obj\Debug\011_Collections_UserCollection.pdb

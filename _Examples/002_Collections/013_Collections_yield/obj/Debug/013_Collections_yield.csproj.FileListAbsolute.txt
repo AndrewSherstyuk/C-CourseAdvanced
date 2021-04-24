@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\013_Collections_yield\bin\Debug\013_Collections_yield.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\013_Collections_yield\bin\Debug\013_Collections_yield.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\013_Collections_yield\bin\Debug\013_Collections_yield.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\013_Collections_yield\obj\Debug\013_Collections_yield.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\013_Collections_yield\obj\Debug\013_Collections_yield.pdb

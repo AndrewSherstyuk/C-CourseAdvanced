@@ -1,0 +1,6 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\026_Delegates_Contravariance\obj\Debug\026_Delegates_Contravariance.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\026_Delegates_Contravariance\bin\Debug\026_Delegates_Contravariance.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\026_Delegates_Contravariance\bin\Debug\026_Delegates_Contravariance.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\026_Delegates_Contravariance\bin\Debug\026_Delegates_Contravariance.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\026_Delegates_Contravariance\obj\Debug\026_Delegates_Contravariance.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\026_Delegates_Contravariance\obj\Debug\026_Delegates_Contravariance.pdb

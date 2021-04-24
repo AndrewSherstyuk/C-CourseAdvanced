@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\020_Collections_Queue\bin\Debug\020_Collections_Queue.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\020_Collections_Queue\bin\Debug\020_Collections_Queue.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\020_Collections_Queue\bin\Debug\020_Collections_Queue.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\020_Collections_Queue\obj\Debug\020_Collections_Queue.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\020_Collections_Queue\obj\Debug\020_Collections_Queue.pdb

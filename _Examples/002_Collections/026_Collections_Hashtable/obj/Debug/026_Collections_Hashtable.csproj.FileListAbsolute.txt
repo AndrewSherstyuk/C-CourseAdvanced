@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\026_Collections_Hashtable\bin\Debug\026_Collections_Hashtable.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\026_Collections_Hashtable\bin\Debug\026_Collections_Hashtable.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\026_Collections_Hashtable\bin\Debug\026_Collections_Hashtable.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\026_Collections_Hashtable\obj\Debug\026_Collections_Hashtable.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\002_Коллекции\002_Collections\026_Collections_Hashtable\obj\Debug\026_Collections_Hashtable.pdb

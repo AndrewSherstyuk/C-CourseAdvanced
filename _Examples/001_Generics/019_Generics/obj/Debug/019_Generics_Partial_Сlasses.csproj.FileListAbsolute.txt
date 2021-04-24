@@ -1,0 +1,6 @@
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\019_Generics\bin\Debug\019_Generics.exe.config
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\019_Generics\bin\Debug\019_Generics.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\019_Generics\bin\Debug\019_Generics.pdb
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\019_Generics\obj\Debug\019_Generics_Partial_Сlasses.csprojAssemblyReference.cache
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\019_Generics\obj\Debug\019_Generics.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\019_Generics\obj\Debug\019_Generics.pdb

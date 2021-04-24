@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\024_Func\bin\Debug\024_Func.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\024_Func\bin\Debug\024_Func.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\024_Func\bin\Debug\024_Func.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\024_Func\obj\Debug\024_Func.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\024_Func\obj\Debug\024_Func.pdb

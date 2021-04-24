@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\017__Events\bin\Debug\017__Events.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\017__Events\bin\Debug\017__Events.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\017__Events\bin\Debug\017__Events.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\017__Events\obj\Debug\017__Events.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\003_Делегаты_И_События\003_Delegates_and_Events\017__Events\obj\Debug\017__Events.pdb

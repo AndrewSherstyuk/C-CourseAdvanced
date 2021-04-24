@@ -1,0 +1,6 @@
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\17_Covariance\obj\Debug\17_Covariance.csprojAssemblyReference.cache
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\17_Covariance\bin\Debug\17_Covariance.exe.config
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\17_Covariance\bin\Debug\17_Covariance.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\17_Covariance\bin\Debug\17_Covariance.pdb
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\17_Covariance\obj\Debug\17_Covariance.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\17_Covariance\obj\Debug\17_Covariance.pdb

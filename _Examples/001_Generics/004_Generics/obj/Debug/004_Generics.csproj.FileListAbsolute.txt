@@ -1,0 +1,12 @@
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\004_Generics\bin\Debug\004_Generics.exe.config
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\004_Generics\bin\Debug\004_Generics.exe
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\004_Generics\bin\Debug\004_Generics.pdb
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\004_Generics\obj\Debug\004_Generics.csprojAssemblyReference.cache
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\004_Generics\obj\Debug\004_Generics.exe
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\004_Generics\obj\Debug\004_Generics.pdb
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\004_Generics\bin\Debug\004_Generics.exe.config
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\004_Generics\bin\Debug\004_Generics.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\004_Generics\bin\Debug\004_Generics.pdb
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\004_Generics\obj\Debug\004_Generics.csprojAssemblyReference.cache
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\004_Generics\obj\Debug\004_Generics.exe
+F:\ITEA - Продвинутый курс по С#\001_Обобщения\001_Generics_1.0\004_Generics\obj\Debug\004_Generics.pdb

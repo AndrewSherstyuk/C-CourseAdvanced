@@ -1,0 +1,6 @@
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\001_Generics_1.0\bin\Debug\001_Generics_1.0.exe.config
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\001_Generics_1.0\bin\Debug\001_Generics_1.0.exe
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\001_Generics_1.0\bin\Debug\001_Generics_1.0.pdb
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\001_Generics_1.0\obj\Debug\001_Generics.csprojAssemblyReference.cache
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\001_Generics_1.0\obj\Debug\001_Generics_1.0.exe
+C:\Users\aleksey.glembitskiy\source\repos\001_Generics_1.0\001_Generics_1.0\obj\Debug\001_Generics_1.0.pdb
