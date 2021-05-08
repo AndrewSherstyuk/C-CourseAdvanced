@@ -1,0 +1,18 @@
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\bin\Debug\013_Reflector.exe.config
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\bin\Debug\013_Reflector.exe
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\bin\Debug\013_Reflector.pdb
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\obj\Debug\013_Reflector.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\obj\Debug\_013_Reflector.Form1.resources
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\obj\Debug\_013_Reflector.Properties.Resources.resources
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\obj\Debug\013_Reflector.csproj.GenerateResource.cache
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\obj\Debug\013_Reflector.exe
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\013_Reflector\obj\Debug\013_Reflector.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\bin\Debug\013_Reflector.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\bin\Debug\013_Reflector.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\bin\Debug\013_Reflector.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\obj\Debug\013_Reflector.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\obj\Debug\_013_Reflector.Form1.resources
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\obj\Debug\_013_Reflector.Properties.Resources.resources
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\obj\Debug\013_Reflector.csproj.GenerateResource.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\obj\Debug\013_Reflector.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\006_Рефлексия\006_Reflection\013_Reflector\obj\Debug\013_Reflector.pdb

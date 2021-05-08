@@ -1,0 +1,10 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\DataContext.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\DataContext.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\DataContext.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\EntityFramework.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\EntityFramework.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\obj\Debug\DataContext.csproj.CopyComplete
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\obj\Debug\DataContext.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\DataContext\obj\Debug\DataContext.pdb

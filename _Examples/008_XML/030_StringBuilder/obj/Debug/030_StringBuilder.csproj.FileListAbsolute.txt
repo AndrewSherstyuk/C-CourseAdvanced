@@ -1,0 +1,5 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\030_StringBuilder\bin\Debug\030_StringBuilder.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\030_StringBuilder\bin\Debug\030_StringBuilder.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\030_StringBuilder\bin\Debug\030_StringBuilder.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\030_StringBuilder\obj\Debug\030_StringBuilder.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\030_StringBuilder\obj\Debug\030_StringBuilder.pdb

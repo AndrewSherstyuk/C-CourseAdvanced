@@ -1,0 +1,5 @@
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\014_XML\bin\Debug\014_XML.exe.config
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\014_XML\bin\Debug\014_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\014_XML\bin\Debug\014_XML.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\014_XML\obj\Debug\014_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\014_XML\obj\Debug\014_XML.pdb

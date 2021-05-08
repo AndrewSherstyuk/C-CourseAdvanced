@@ -1,0 +1,10 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\005_LINQ\bin\Debug\005_LINQ.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\005_LINQ\bin\Debug\005_LINQ.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\005_LINQ\bin\Debug\005_LINQ.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\005_LINQ\obj\Debug\005_LINQ.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\005_LINQ\obj\Debug\005_LINQ.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\005_LINQ\bin\Debug\005_LINQ.exe.config
+E:\Програмирование\ITEA Курс по С#\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\005_LINQ\bin\Debug\005_LINQ.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\005_LINQ\bin\Debug\005_LINQ.pdb
+E:\Програмирование\ITEA Курс по С#\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\005_LINQ\obj\Debug\005_LINQ.exe
+E:\Програмирование\ITEA Курс по С#\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\005_LINQ\obj\Debug\005_LINQ.pdb

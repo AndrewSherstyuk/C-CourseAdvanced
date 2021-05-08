@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\034__Dynamic\bin\Debug\034__Dynamic.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\034__Dynamic\bin\Debug\034__Dynamic.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\034__Dynamic\bin\Debug\034__Dynamic.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\034__Dynamic\obj\Debug\034__Dynamic.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\034__Dynamic\obj\Debug\034__Dynamic.pdb

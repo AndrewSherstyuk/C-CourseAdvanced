@@ -1,0 +1,16 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_MemoryStream\obj\Debug\024_MemoryStream.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_MemoryStream\obj\Debug\024_MemoryStream.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\obj\Debug\024_MemoryStream.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\obj\Debug\024_MemoryStream.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\bin\Debug\024_MemoryStream.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\obj\Debug\025_MemoryStream.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\obj\Debug\024_MemoryStream.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_MemoryStream\obj\Debug\024_MemoryStream.pdb

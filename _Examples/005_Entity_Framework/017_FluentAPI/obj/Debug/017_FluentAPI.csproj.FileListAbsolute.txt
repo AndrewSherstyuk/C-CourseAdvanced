@@ -1,0 +1,22 @@
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\017_FluentAPI.exe.config
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\017_FluentAPI.exe
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\017_FluentAPI.pdb
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.dll
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.xml
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.csproj.CopyComplete
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.exe
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\017_FluentAPI.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\017_FluentAPI.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\017_FluentAPI.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.SqlServer.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\bin\Debug\EntityFramework.SqlServer.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.csproj.CopyComplete
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\017_FluentAPI\obj\Debug\017_FluentAPI.pdb

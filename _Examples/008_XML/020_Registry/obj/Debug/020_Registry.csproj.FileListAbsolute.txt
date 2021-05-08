@@ -1,0 +1,18 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\bin\Debug\020_Registry.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\bin\Debug\020_Registry.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\bin\Debug\020_Registry.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\obj\Debug\020_Registry.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\obj\Debug\020_Registry.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\obj\Debug\020_Registry.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\bin\Debug\020_Registry.exe.config
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\bin\Debug\020_Registry.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\bin\Debug\020_Registry.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\obj\Debug\020_Registry.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\obj\Debug\020_Registry.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\020_Registry\obj\Debug\020_Registry.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\020_Registry\bin\Debug\020_Registry.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\020_Registry\bin\Debug\020_Registry.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\020_Registry\bin\Debug\020_Registry.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\020_Registry\obj\Debug\020_Registry.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\020_Registry\obj\Debug\020_Registry.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\020_Registry\obj\Debug\020_Registry.pdb

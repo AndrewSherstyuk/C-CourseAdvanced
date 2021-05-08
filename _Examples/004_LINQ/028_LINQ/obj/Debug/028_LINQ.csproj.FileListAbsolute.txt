@@ -1,0 +1,5 @@
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\028_LINQ\bin\Debug\028_LINQ.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\028_LINQ\bin\Debug\028_LINQ.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\028_LINQ\bin\Debug\028_LINQ.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\028_LINQ\obj\Debug\028_LINQ.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\028_LINQ\obj\Debug\028_LINQ.pdb

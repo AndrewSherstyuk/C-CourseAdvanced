@@ -1,0 +1,14 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\015_AggregateOperations.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\015_AggregateOperations.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\015_AggregateOperations.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\DataContexts.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\EntityFramework.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\DataContexts.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\DataContexts.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\EntityFramework.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\obj\Debug\015_AggregateOperations.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\obj\Debug\015_AggregateOperations.csproj.CopyComplete
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\obj\Debug\015_AggregateOperations.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\015_AggregateOperations\obj\Debug\015_AggregateOperations.pdb

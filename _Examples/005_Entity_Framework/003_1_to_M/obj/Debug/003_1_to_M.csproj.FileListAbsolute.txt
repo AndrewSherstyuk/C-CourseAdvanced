@@ -1,0 +1,21 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\003_1_to_M.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\003_1_to_M.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\003_1_to_M.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.csproj.CopyComplete
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\003_1_to_M.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\003_1_to_M.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\003_1_to_M.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.SqlServer.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\bin\Debug\EntityFramework.SqlServer.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.csproj.CopyComplete
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\003_1_to_M\obj\Debug\003_1_to_M.pdb

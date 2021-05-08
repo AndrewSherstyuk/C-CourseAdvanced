@@ -1,0 +1,17 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\bin\Debug\024_BinaryReader.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\024_BinaryReader\obj\Debug\024_BinaryReader.pdb

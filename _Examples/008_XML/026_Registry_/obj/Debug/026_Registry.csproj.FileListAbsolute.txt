@@ -1,0 +1,17 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\bin\Debug\026_Registry_.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\bin\Debug\026_Registry_.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\bin\Debug\026_Registry_.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\obj\Debug\_026_Registry_.Form1.resources
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\obj\Debug\_026_Registry_.Properties.Resources.resources
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\obj\Debug\026_Registry.csproj.GenerateResource.cache
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\obj\Debug\026_Registry_.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\026_Registry_\obj\Debug\026_Registry_.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\bin\Debug\026_Registry_.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\bin\Debug\026_Registry_.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\bin\Debug\026_Registry_.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\obj\Debug\026_Registry.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\obj\Debug\_026_Registry_.Form1.resources
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\obj\Debug\_026_Registry_.Properties.Resources.resources
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\obj\Debug\026_Registry.csproj.GenerateResource.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\obj\Debug\026_Registry_.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\026_Registry_\obj\Debug\026_Registry_.pdb

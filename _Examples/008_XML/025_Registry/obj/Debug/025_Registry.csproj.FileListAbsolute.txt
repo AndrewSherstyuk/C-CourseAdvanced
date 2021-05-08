@@ -1,0 +1,5 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\025_Registry\bin\Debug\025_Registry.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\025_Registry\bin\Debug\025_Registry.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\025_Registry\bin\Debug\025_Registry.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\025_Registry\obj\Debug\025_Registry.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\025_Registry\obj\Debug\025_Registry.pdb

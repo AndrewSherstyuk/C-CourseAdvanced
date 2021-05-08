@@ -1,0 +1,27 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\009_Sorting.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\009_Sorting.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\009_Sorting.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\DataContexts.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\DataContexts.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\DataContexts.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.csproj.CopyComplete
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\009_Sorting.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\009_Sorting.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\009_Sorting.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\DataContexts.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.SqlServer.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\DataContexts.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\DataContexts.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\bin\Debug\EntityFramework.SqlServer.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.csproj.CopyComplete
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\009_Sorting\obj\Debug\009_Sorting.pdb

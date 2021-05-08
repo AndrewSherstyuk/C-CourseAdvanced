@@ -1,0 +1,27 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe.config
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe.config
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\bin\Debug\004_Input_Output.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\004_Input_Output\obj\Debug\004_Input_Output.pdb

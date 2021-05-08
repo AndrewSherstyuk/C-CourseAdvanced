@@ -1,0 +1,23 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe.config
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\bin\Debug\013_PathDemo.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\013_PathDemo\obj\Debug\013_PathDemo.pdb

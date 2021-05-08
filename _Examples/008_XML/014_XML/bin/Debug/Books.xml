@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListOfBooks>
+  <Book>
+    <Title>CLR via C# Рихтер</Title>
+    <Price>999</Price>
+  </Book>
+</ListOfBooks>

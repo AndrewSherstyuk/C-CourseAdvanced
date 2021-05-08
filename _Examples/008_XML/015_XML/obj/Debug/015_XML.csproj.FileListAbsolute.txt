@@ -1,0 +1,12 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\015_XML.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\015_XML.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\015_XML.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\obj\Debug\015_XML.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\obj\Debug\015_XML.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\Books.xml
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\Books.xml
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\015_XML.exe.config
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\015_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\bin\Debug\015_XML.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\obj\Debug\015_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\015_XML\obj\Debug\015_XML.pdb

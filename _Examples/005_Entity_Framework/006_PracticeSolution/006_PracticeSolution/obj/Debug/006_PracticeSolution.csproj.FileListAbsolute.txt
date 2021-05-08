@@ -1,0 +1,6 @@
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_PracticeSolution\006_PracticeSolution\bin\Debug\006_PracticeSolution.exe.config
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_PracticeSolution\006_PracticeSolution\bin\Debug\006_PracticeSolution.exe
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_PracticeSolution\006_PracticeSolution\bin\Debug\006_PracticeSolution.pdb
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_PracticeSolution\006_PracticeSolution\obj\Debug\006_PracticeSolution.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_PracticeSolution\006_PracticeSolution\obj\Debug\006_PracticeSolution.exe
+D:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_PracticeSolution\006_PracticeSolution\obj\Debug\006_PracticeSolution.pdb

@@ -1,0 +1,11 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\bin\Debug\018_XML.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\bin\Debug\018_XML.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\bin\Debug\018_XML.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\obj\Debug\018_XML.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\obj\Debug\018_XML.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\bin\Debug\018_XML.exe.config
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\bin\Debug\018_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\bin\Debug\018_XML.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\obj\Debug\018_Configuration.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\obj\Debug\018_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\018_XML\obj\Debug\018_XML.pdb

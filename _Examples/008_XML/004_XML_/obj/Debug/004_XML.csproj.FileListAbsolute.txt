@@ -1,0 +1,20 @@
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\004_XML_.exe.config
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\004_XML_.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\004_XML_.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\obj\Debug\004_XML_.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\obj\Debug\004_XML_.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\Books.xml
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\Books.xml
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\004_XML_.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\004_XML_.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\bin\Debug\004_XML_.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\obj\Debug\004_XML_.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\obj\Debug\004_XML_.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\004_XML_\obj\Debug\004_XML.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\bin\Debug\Books.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\bin\Debug\004_XML_.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\bin\Debug\004_XML_.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\bin\Debug\004_XML_.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\obj\Debug\004_XML.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\obj\Debug\004_XML_.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\004_XML_\obj\Debug\004_XML_.pdb

@@ -1,0 +1,17 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\025_BufferedStream\obj\Debug\025_BufferedStream.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\025_BufferedStream\obj\Debug\025_BufferedStream.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\obj\Debug\026_BufferedStream.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\obj\Debug\025_BufferedStream.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\obj\Debug\025_BufferedStream.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\bin\Debug\025_BufferedStream.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\obj\Debug\026_BufferedStream.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\obj\Debug\025_BufferedStream.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\025_BufferedStream\obj\Debug\025_BufferedStream.pdb

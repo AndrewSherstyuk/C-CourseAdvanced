@@ -1,0 +1,13 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\014_SetOperations.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\014_SetOperations.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\014_SetOperations.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\DataContexts.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\EntityFramework.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\DataContexts.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\DataContexts.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\EntityFramework.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\obj\Debug\014_SetOperations.csproj.CopyComplete
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\obj\Debug\014_SetOperations.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\014_SetOperations\obj\Debug\014_SetOperations.pdb

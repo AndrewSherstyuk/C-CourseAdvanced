@@ -1,0 +1,17 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\bin\Debug\018_StreamReader.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\018_StreamReader\obj\Debug\018_StreamReader.pdb

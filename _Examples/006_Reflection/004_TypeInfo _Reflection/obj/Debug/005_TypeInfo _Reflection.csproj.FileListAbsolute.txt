@@ -1,0 +1,12 @@
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\bin\Debug\004_TypeInfo _Reflection.exe.config
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\bin\Debug\004_TypeInfo _Reflection.exe
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\bin\Debug\004_TypeInfo _Reflection.pdb
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\obj\Debug\005_TypeInfo _Reflection.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\obj\Debug\004_TypeInfo _Reflection.exe
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\obj\Debug\004_TypeInfo _Reflection.pdb
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\bin\Debug\004_TypeInfo _Reflection.exe.config
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\bin\Debug\004_TypeInfo _Reflection.exe
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\bin\Debug\004_TypeInfo _Reflection.pdb
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\obj\Debug\005_TypeInfo _Reflection.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\obj\Debug\004_TypeInfo _Reflection.exe
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\004_TypeInfo _Reflection\obj\Debug\004_TypeInfo _Reflection.pdb

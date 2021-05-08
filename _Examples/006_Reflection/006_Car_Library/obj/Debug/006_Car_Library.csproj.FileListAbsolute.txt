@@ -1,0 +1,8 @@
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\bin\Debug\006_Car_Library.dll
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\bin\Debug\006_Car_Library.pdb
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\obj\Debug\006_Car_Library.dll
+D:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\obj\Debug\006_Car_Library.pdb
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\bin\Debug\CarLibrary.dll
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\bin\Debug\CarLibrary.pdb
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\obj\Debug\CarLibrary.dll
+E:\ITEA - Продвинутый курс по С#\007_Рефлексия\007_Reflection\006_Car_Library\obj\Debug\CarLibrary.pdb

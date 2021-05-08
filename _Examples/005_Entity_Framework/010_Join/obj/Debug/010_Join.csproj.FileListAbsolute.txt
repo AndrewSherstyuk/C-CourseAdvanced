@@ -1,0 +1,27 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\010_Join.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\010_Join.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\010_Join.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\DataContexts.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\EntityFramework.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\EntityFramework.SqlServer.dll
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\DataContexts.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\DataContexts.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\EntityFramework.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\bin\Debug\EntityFramework.SqlServer.xml
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\obj\Debug\010_Join.csproj.CopyComplete
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\obj\Debug\010_Join.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\010_Join\obj\Debug\010_Join.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\010_Join.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\010_Join.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\010_Join.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\DataContexts.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\EntityFramework.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\EntityFramework.SqlServer.dll
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\DataContexts.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\DataContexts.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\EntityFramework.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\bin\Debug\EntityFramework.SqlServer.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\obj\Debug\010_Join.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\obj\Debug\010_Join.csproj.CopyComplete
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\obj\Debug\010_Join.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\005_Entity_Framework\005_Entity_Framework\010_Join\obj\Debug\010_Join.pdb

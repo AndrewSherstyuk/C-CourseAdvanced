@@ -1,0 +1,16 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\bin\Debug\012_DriveInfoDemo.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\012_DriveInfoDemo\obj\Debug\012_DriveInfoDemo.pdb

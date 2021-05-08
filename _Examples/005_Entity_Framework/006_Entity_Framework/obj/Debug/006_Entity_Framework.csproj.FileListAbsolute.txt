@@ -1,0 +1,6 @@
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\bin\Debug\006_Entity_Framework.exe.config
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\bin\Debug\006_Entity_Framework.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\bin\Debug\006_Entity_Framework.pdb
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\obj\Debug\006_Entity_Framework.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\obj\Debug\006_Entity_Framework.exe
+E:\ITEA - Продвинутый курс по С#\006_Entity_Framework\006_Entity_Framework\006_Entity_Framework\obj\Debug\006_Entity_Framework.pdb

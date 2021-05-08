@@ -1,0 +1,30 @@
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe.config
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.pdb
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.exe
+D:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe.config
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.pdb
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.exe
+E:\ITEA - Продвинутый курс по С#\008_Ввод-вывод\008_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe.config
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\bin\Debug\023_BinaryWriter.pdb
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.csprojAssemblyReference.cache
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.exe
+E:\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\007_Ввод-вывод\007_Input_Output\023_BinaryWriter\obj\Debug\023_BinaryWriter.pdb

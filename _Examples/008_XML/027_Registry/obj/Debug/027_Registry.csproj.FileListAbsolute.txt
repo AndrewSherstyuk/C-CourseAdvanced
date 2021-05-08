@@ -1,0 +1,17 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\bin\Debug\027_Registry.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\bin\Debug\027_Registry.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\bin\Debug\027_Registry.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\obj\Debug\_027_Registry.Form1.resources
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\obj\Debug\_027_Registry.Properties.Resources.resources
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\obj\Debug\027_Registry.csproj.GenerateResource.cache
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\obj\Debug\027_Registry.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\027_Registry\obj\Debug\027_Registry.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\bin\Debug\027_Registry.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\bin\Debug\027_Registry.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\bin\Debug\027_Registry.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\obj\Debug\027_Registry.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\obj\Debug\_027_Registry.Form1.resources
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\obj\Debug\_027_Registry.Properties.Resources.resources
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\obj\Debug\027_Registry.csproj.GenerateResource.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\obj\Debug\027_Registry.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\027_Registry\obj\Debug\027_Registry.pdb

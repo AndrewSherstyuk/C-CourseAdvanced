@@ -1,0 +1,21 @@
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\Books.xml
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\005_XML.exe.config
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\005_XML.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\005_XML.pdb
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\obj\Debug\005_XML.csprojAssemblyReference.cache
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\obj\Debug\005_XML.exe
+D:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\obj\Debug\005_XML.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\Books.xml
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\005_XML.exe.config
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\005_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\bin\Debug\005_XML.pdb
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\obj\Debug\005_XML.csprojAssemblyReference.cache
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\obj\Debug\005_XML.exe
+E:\ITEA - Продвинутый курс по С#\009_XML\009_XML\005_XML\obj\Debug\005_XML.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\bin\Debug\Books.xml
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\bin\Debug\005_XML.exe.config
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\bin\Debug\005_XML.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\bin\Debug\005_XML.pdb
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\obj\Debug\005_XML.csprojAssemblyReference.cache
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\obj\Debug\005_XML.exe
+E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\008_XML\008_XML\005_XML\obj\Debug\005_XML.pdb
