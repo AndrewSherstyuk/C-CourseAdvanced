@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj": {}
+    "D:\\C-CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "D:\\C#CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj": {
+    "D:\\C-CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\C-CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "D:\\C#CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj",
-        "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "D:\\C#CourseAdvanced\\Lesson3_Homework\\Task4\\obj\\",
+        "projectPath": "D:\\C-CourseAdvanced\\Lesson3_Homework\\Task4\\Task4.csproj",
+        "packagesPath": "C:\\Users\\asherstyuk\\.nuget\\packages\\",
+        "outputPath": "D:\\C-CourseAdvanced\\Lesson3_Homework\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andrew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asherstyuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,11 +25,11 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.devops.onsolve.com/artifactory/api/nuget/nuget": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +59,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

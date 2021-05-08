@@ -5,6 +5,27 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Task4"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid d:IsHidden="True"/>
+        Title="Timer" Width="459" Height="303" ResizeMode="NoResize" WindowStyle="ThreeDBorderWindow">
+    <Grid Margin="0,10,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Content="Label" Grid.ColumnSpan="23" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="1" VerticalAlignment="Center" FontFamily="Arial Black" FontSize="20"/>
+
+
+
+    </Grid>
 </Window>
