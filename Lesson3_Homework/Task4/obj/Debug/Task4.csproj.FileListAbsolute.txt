@@ -1,0 +1,10 @@
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\bin\Debug\Task4.exe.config
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\bin\Debug\Task4.exe
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\bin\Debug\Task4.pdb
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.Form1.resources
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.Properties.Resources.resources
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.exe
+D:\C-CourseAdvanced\Lesson3_Homework\Task4\obj\Debug\Task4.pdb

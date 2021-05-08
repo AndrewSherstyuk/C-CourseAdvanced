@@ -12,9 +12,48 @@ namespace Task4
 {
     public partial class Form1 : Form
     {
+        int s;
         public Form1()
         {
             InitializeComponent();
+
+            timer1.Interval = 1000;
+            s = 0;
+
+            label1.Visible = true;
+            label1.Text = "0";
+
+            button1.Enabled = true;
+            button2.Enabled = false;
+            button3.Enabled = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+            button2.Enabled = true;
+            button3.Enabled = true;
+        }
+
+        private void timer1_Tick(Object sender, EventArgs e)
+        {
+            s++;
+            label1.Text = s.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+            button2.Enabled = true;
+            button3.Enabled = true;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+            label1.Text = "0";
+            button2.Enabled = false;
+            button3.Enabled = true;
         }
     }
 }
