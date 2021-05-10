@@ -26,9 +26,9 @@ namespace Task5
                 new { english = "weapon", russian = "оружие" }    
             };
 
-            for (int i = 0; i < 10; i++)
+            foreach(var a in englishRussianPairs)
             {
-                Console.WriteLine($"{englishRussianPairs[i].english}\t - \t{englishRussianPairs[i].russian}"); 
+                Console.WriteLine($"{a.english}\t - \t{a.russian}"); 
             }
 
             Console.ReadKey();
