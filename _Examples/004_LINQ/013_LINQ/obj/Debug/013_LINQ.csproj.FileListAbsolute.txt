@@ -3,3 +3,9 @@ E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Пр
 E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\013_LINQ\bin\Debug\013_LINQ.pdb
 E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\013_LINQ\obj\Debug\013_LINQ.exe
 E:\Програмирование\ITEA Курс по С#\New_Version\ITEA - Продвинутый курс по С#\004_LINQ\004_LINQ\013_LINQ\obj\Debug\013_LINQ.pdb
+D:\C-CourseAdvanced\_Examples\004_LINQ\013_LINQ\bin\Debug\013_LINQ.exe.config
+D:\C-CourseAdvanced\_Examples\004_LINQ\013_LINQ\bin\Debug\013_LINQ.exe
+D:\C-CourseAdvanced\_Examples\004_LINQ\013_LINQ\bin\Debug\013_LINQ.pdb
+D:\C-CourseAdvanced\_Examples\004_LINQ\013_LINQ\obj\Debug\013_LINQ.csproj.CoreCompileInputs.cache
+D:\C-CourseAdvanced\_Examples\004_LINQ\013_LINQ\obj\Debug\013_LINQ.exe
+D:\C-CourseAdvanced\_Examples\004_LINQ\013_LINQ\obj\Debug\013_LINQ.pdb

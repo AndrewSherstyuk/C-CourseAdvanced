@@ -1,0 +1,7 @@
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\bin\Debug\Task4.exe.config
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\bin\Debug\Task4.exe
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\bin\Debug\Task4.pdb
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\obj\Debug\Task4.exe
+D:\C-CourseAdvanced\Lesson4_Homework\Task4\obj\Debug\Task4.pdb

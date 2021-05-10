@@ -20,6 +20,7 @@ namespace _013_LINQ
                 new EmployeeID {Id = "111", Name = "Ivan Ivanov"},
                 new EmployeeID {Id = "222", Name = "Andrey Andreev"},
                 new EmployeeID {Id = "333", Name = "Petr Petrov"},
+                new EmployeeID {Id = "333", Name = "Sidor Sidorov"},
                 new EmployeeID {Id = "444", Name = "Alex Alexeev"}
             };
 
@@ -29,6 +30,7 @@ namespace _013_LINQ
                 new EmployeeNationality {Id = "111", Nationality = "Russian"},
                 new EmployeeNationality {Id = "222", Nationality = "Ukrainian"},
                 new EmployeeNationality {Id = "333", Nationality = "American"},
+                new EmployeeNationality {Id = "333", Nationality = "Arab"},
                 new EmployeeNationality {Id = "533", Nationality = "American"}
             };
 

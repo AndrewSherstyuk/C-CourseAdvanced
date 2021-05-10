@@ -1,0 +1,6 @@
+D:\C-CourseAdvanced\Lesson4_Homework\Task3\bin\Debug\Task3.exe.config
+D:\C-CourseAdvanced\Lesson4_Homework\Task3\bin\Debug\Task3.exe
+D:\C-CourseAdvanced\Lesson4_Homework\Task3\bin\Debug\Task3.pdb
+D:\C-CourseAdvanced\Lesson4_Homework\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+D:\C-CourseAdvanced\Lesson4_Homework\Task3\obj\Debug\Task3.exe
+D:\C-CourseAdvanced\Lesson4_Homework\Task3\obj\Debug\Task3.pdb
